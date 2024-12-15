@@ -5,6 +5,6 @@ This project is a backend project that is built with nodejs, expressjs, mongodb,
 
 Project uses all standard practices like JWT, bcrypt, access tokens, refresh Tokens and many more. 
 
-Data-Mode link :
+Data Model link :
 
 https://app.eraser.io/workspace/h0bhyXnU29yfDPlH4akb?origin=share
